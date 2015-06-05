@@ -1,0 +1,48 @@
+﻿生成启动时间为 2014-1-2 13:50:30。
+     1>项目“C:\Documents and Settings\Administrator.CHINA-1D2299114\My Documents\visual studio 2010\Projects\CART\CART\CART.vcxproj”在节点 2 上(build 个目标)。
+     1>PrepareForBuild:
+         正在创建目录“C:\Documents and Settings\Administrator.CHINA-1D2299114\My Documents\Visual Studio 2010\Projects\CART\Debug\”。
+       InitializeBuildStatus:
+         正在创建“Debug\CART.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt CART.cpp
+         CART.cpp
+     1>c:\documents and settings\administrator.china-1d2299114\my documents\visual studio 2010\projects\cart\cart\cart.cpp(61): warning C4244: “初始化”: 从“const double”转换到“int”，可能丢失数据
+     1>c:\documents and settings\administrator.china-1d2299114\my documents\visual studio 2010\projects\cart\cart\cart.cpp(184): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\documents and settings\administrator.china-1d2299114\my documents\visual studio 2010\projects\cart\cart\cart.cpp(192): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\documents and settings\administrator.china-1d2299114\my documents\visual studio 2010\projects\cart\cart\cart.cpp(235): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\documents and settings\administrator.china-1d2299114\my documents\visual studio 2010\projects\cart\cart\cart.cpp(242): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\documents and settings\administrator.china-1d2299114\my documents\visual studio 2010\projects\cart\cart\cart.cpp(245): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\documents and settings\administrator.china-1d2299114\my documents\visual studio 2010\projects\cart\cart\cart.cpp(258): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\documents and settings\administrator.china-1d2299114\my documents\visual studio 2010\projects\cart\cart\cart.cpp(269): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\documents and settings\administrator.china-1d2299114\my documents\visual studio 2010\projects\cart\cart\cart.cpp(276): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\documents and settings\administrator.china-1d2299114\my documents\visual studio 2010\projects\cart\cart\cart.cpp(277): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\documents and settings\administrator.china-1d2299114\my documents\visual studio 2010\projects\cart\cart\cart.cpp(285): warning C4244: “参数”: 从“double”转换到“unsigned int”，可能丢失数据
+     1>c:\documents and settings\administrator.china-1d2299114\my documents\visual studio 2010\projects\cart\cart\cart.cpp(286): warning C4244: “参数”: 从“double”转换到“unsigned int”，可能丢失数据
+     1>c:\documents and settings\administrator.china-1d2299114\my documents\visual studio 2010\projects\cart\cart\cart.cpp(296): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\documents and settings\administrator.china-1d2299114\my documents\visual studio 2010\projects\cart\cart\cart.cpp(314): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\documents and settings\administrator.china-1d2299114\my documents\visual studio 2010\projects\cart\cart\cart.cpp(343): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\documents and settings\administrator.china-1d2299114\my documents\visual studio 2010\projects\cart\cart\cart.cpp(354): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\documents and settings\administrator.china-1d2299114\my documents\visual studio 2010\projects\cart\cart\cart.cpp(402): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\documents and settings\administrator.china-1d2299114\my documents\visual studio 2010\projects\cart\cart\cart.cpp(410): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\documents and settings\administrator.china-1d2299114\my documents\visual studio 2010\projects\cart\cart\cart.cpp(431): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\documents and settings\administrator.china-1d2299114\my documents\visual studio 2010\projects\cart\cart\cart.cpp(436): warning C4018: “<”: 有符号/无符号不匹配
+       ManifestResourceCompile:
+         所有输出均为最新。
+       Link:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Documents and Settings\Administrator.CHINA-1D2299114\My Documents\Visual Studio 2010\Projects\CART\Debug\CART.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\CART.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Documents and Settings\Administrator.CHINA-1D2299114\My Documents\Visual Studio 2010\Projects\CART\Debug\CART.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Documents and Settings\Administrator.CHINA-1D2299114\My Documents\Visual Studio 2010\Projects\CART\Debug\CART.lib" /MACHINE:X86 Debug\CART.exe.embed.manifest.res
+         Debug\CART.obj
+       Manifest:
+         c:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\CART.exe.embed.manifest" /manifest Debug\CART.exe.intermediate.manifest
+         所有输出均为最新。
+       LinkEmbedManifest:
+         所有输出均为最新。
+         CART.vcxproj -> C:\Documents and Settings\Administrator.CHINA-1D2299114\My Documents\Visual Studio 2010\Projects\CART\Debug\CART.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\CART.unsuccessfulbuild”。
+         正在对“Debug\CART.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“C:\Documents and Settings\Administrator.CHINA-1D2299114\My Documents\visual studio 2010\Projects\CART\CART\CART.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.25
